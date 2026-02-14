@@ -1,0 +1,5 @@
+pandas
+ibm-watson-machine-learning
+ibm_boto3
+botocore
+jupyter
