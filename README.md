@@ -84,7 +84,7 @@ college-feedback-classifier/
 ## How to Run This Project
 
 ### 1. Clone repository
-git clone https://github.com/yourusername/college-feedback-classifier.git
+git clone https://github.com/JaswanthChintha/college-feedback-classifier.git
 cd college-feedback-classifier
 
 
